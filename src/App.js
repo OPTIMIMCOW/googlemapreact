@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { GoogleMap, Marker } from "react-google-maps";
 
 function App() {
   return (
